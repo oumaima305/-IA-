@@ -1,14 +1,14 @@
 # Rapport d'Analyse Statistique et Machine Learning en Finance
 
-**Auteurs :** HAMDOUNE Oumaima & KAISS Salma  
-**Groupe :** G2 — Cours d'Analyse & Calcul (CAC)  
-**Date :** 2025
+## HAMDOUNE Oumaima 
+## KAISS Salma  
+## CAC G2
 
----
+
 
 ## Sommaire
 
-1. [Introduction](#introduction)
+1. Introduction
 2. [Partie 1 — Statistiques et Loi Normale en Finance](#partie-1)
    - 1.1. Statistiques Descriptives des Portefeuilles
    - 1.2. Visualisation des Distributions
