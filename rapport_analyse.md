@@ -432,7 +432,4 @@ Ce travail pratique a permis d'explorer trois domaines complémentaires de l'ana
 
 En synthèse, ce TP illustre la complémentarité des approches statistiques classiques (loi normale, Bayes) et des méthodes de machine learning moderne dans l'analyse du risque financier. La rigueur méthodologique — validation des hypothèses, gestion du déséquilibre de classes, évaluation économique des modèles — est indispensable pour produire des analyses actionnables dans un environnement professionnel.
 
----
 
-*Rapport rédigé dans le cadre du cours d'Analyse & Calcul (CAC), Groupe G2.*  
-*Auteurs : HAMDOUNE Oumaima & KAISS Salma*
