@@ -1,6 +1,7 @@
 # Rapport d'Analyse Statistique et Machine Learning en Finance
 
 ## HAMDOUNE Oumaima 
+![Description de l'image](https://raw.githubusercontent.com/USERNAME/REPO/main/HAMDOUNE.png)
 ## KAISS Salma  
 ## CAC G2
 
